@@ -19,7 +19,7 @@
 
     <!-- Nav Item - Pages Collapse Menu -->
     <li class="nav-item">
-        <a class="nav-link collapsed" href="<?= base_url('buku'); ?>" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+        <a class="nav-link collapsed" href="<?= base_url('buku'); ?>">
             <i class="fas fa-fw fa-cog"></i>
             <span>Data Buku</span>
         </a>
@@ -27,7 +27,7 @@
 
     <!-- Nav Item - Utilities Collapse Menu -->
     <li class="nav-item">
-        <a class="nav-link collapsed" href="<?= base_url('user/anggota'); ?>" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
+        <a class="nav-link collapsed" href="<?= base_url('user/anggota'); ?>">
             <i class="fas fa-fw fa-wrench"></i>
             <span>Data Anggota</span>
         </a>
